@@ -1,7 +1,8 @@
 # Pojet-B3-INFRA-SECU-
-##PROJET : Architecture réseau et sécurité
-###Mise en place d’une architecture réseau avec des fonctionnalités avancées et de haute
+ROJET : Architecture réseau et sécurité
+Mise en place d’une architecture réseau avec des fonctionnalités avancées et de haute
 disponibilité
+
 • de préférence Open Source
 • redondance des équipements et élimination des SPOF
 • fonctionnalités possibles :
